@@ -1,4 +1,4 @@
-bcat-framework
+bCat
 ==============
 
 PHP Content Managment Framework
